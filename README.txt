@@ -1,0 +1,1 @@
+Minesweeper game. Created it for educational purposes while studying the Tkinter library
