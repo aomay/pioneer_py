@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 31 10:22:01 2021
-
-@author: User
-"""
-
 from tkinter import *
 import pioneer_field
 

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  1 14:30:18 2021
-
-@author: User
-"""
-
 import numpy as np
 import random
 
